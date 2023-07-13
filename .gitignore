@@ -1,9 +1,9 @@
-.vscode
+/.vscode/
 
-.in
-.inp
-.out
+*.in
+*.inp
+*.out
 
-.exe
+*.exe
 
 /CodeSnap/
