@@ -4,6 +4,7 @@
 *.inp
 *.out
 
+*.bat
 *.exe
 
 /CodeSnap/
